@@ -1,8 +1,0 @@
-[35mweb:build[0m: cache hit, replaying output [2ma264d9a10b59a027[0m
-[35mweb:build: [0m
-[35mweb:build: [0m> web@1.0.0 build
-[35mweb:build: [0m> eleventy
-[35mweb:build: [0m
-[35mweb:build: [0m[11ty] Writing _site/README/index.html from ./README.md (liquid)
-[35mweb:build: [0m[11ty] Writing _site/index.html from ./index.html (liquid)
-[35mweb:build: [0m[11ty] Wrote 2 files in 0.03 seconds (v1.0.2)
